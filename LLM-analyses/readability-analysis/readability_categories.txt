@@ -1,0 +1,72 @@
+A-01 Redundancy
+Evaluates the extent to which information is unnecessarily repeated in the text.
+1: Extreme redundancy; multiple paragraphs or sentences convey the exact same data without adding value
+3: Some filler content present; occasional restatement of obvious facts that could be streamlined
+5: Zero waste; every sentence provides new, unique information essential to the reader's understanding
+
+A-02 Repetition
+Focuses on the repeated use of words or phrases that may not contribute to redundancy but can impact the flow and reader engagement
+1: Highly repetitive vocabulary; creates a monotonous and unprofessional tone
+3: Noticeable repetition of key terms; the flow is slightly disrupted but the meaning remains clear
+5: Excellent lexical diversity; synonyms and varied sentence structures keep the reader engaged and the prose fluid
+
+B-01 Ambiguity due to Lack of Detail
+Assesses instances in which insufficient details are provided.
+1: Vague claims without any supporting evidence
+3: General details provided, but leaves the reader with "how" or "what" questions regarding implementation
+5: Granular detail; provides specific actions, methods, and parameters
+
+B-02 Ambiguity in Causation
+Determines how causes and effects are described in the text
+1: Correlational claims presented as causation with no logical link; confusing "if-then" structures
+3: Causal links are present but weak or require the reader to make assumptions
+5: Explicit and verifiable causal chains; clearly explains how Input A leads to Output B
+
+B-03 Ambiguity in Modifiers
+Concerns the use of adjectives, adverbs, and other modifiers that are vague or poorly placed.
+1: Overuse of subjective "puffery" (e.g., "extremely good," "very significant") without definition
+3: Occasional use of imprecise modifiers like "most," "many," or "often" where specifics were possible
+5: Modifiers are precise and restricted to objective descriptors
+
+C-01 Quantitative Ambiguity
+Pertains to the unclear use of material numbers, statistics, or quantities that carry significant weight or meaning, while excluding incidental data such as dates or non-essential figures.
+1: Numbers are provided without units, scale, or meaning
+3: Data is provided with context, but the calculation or source is slightly opaque
+5: Absolute precision; numbers are tied to specific formulas and benchmarks
+
+C-02 Temporal Ambiguity
+Involves unclear or vague references to time
+1: Vague terms like "soon," "recently," or "periodically" with no timeframe
+3: Broad timeframes given (e.g., "annually") but specific dates or triggers for updates are missing
+5: Fixed temporal markers; specific frequencies and historical ranges are defined
+
+C-03 Percentage Ambiguity
+Addresses the use of percentages or proportional data given without adequate explanation or baseline
+1: E.g. "Increase of 20%" with no indication of the starting value or the total population.
+3: Percentages are used, but the "denominator" is only implied, not stated
+5: Full transparency; percentages are clearly linked to a defined total 
+
+C-04 Scope Ambiguity
+Deals with the uncertainty over the extent or range of a claim or statement, such as which parts of an organization or which timescales are being referred to
+1: Unclear if a statement applies to a single company, an industry, or the global universe
+3: Scope is generally defined but has "gray areas"
+5: Clearly demarcated boundaries
+
+C-05 Contextual Ambiguity
+Determines the overall lack of context that can leave readers unsure about the relevance or significance of the information provided
+1: Raw data dumped without explaining why it matters
+3: Information is relevant, but its specific weight in the "big picture" is not immediately clear
+5: Deep context provided; every metric is placed within a hierarchy 
+
+C-06 Interpretative Ambiguity
+Focuses on text that can be interpreted in multiple ways due to vague or nonspecific language
+1: Language is so vague it could be used by a company to "greenwash" or hide underperformance
+3: Mostly clear, but certain terms could be misunderstood by a non-expert
+5: "Single-meaning" prose; technical definitions ensure there is only one way to interpret the data
+
+D. External Reliance
+D-01 Context Dependency
+Evaluates how well the text stands alone without needing additional information or external references to be fully understood
+1: Constant "see website" or "refer to external document" for core logic; the text is a shell
+3: Major logic is present, but understanding specific examples requires looking at external appendices
+5: Fully self-contained; the methodology, examples, and definitions are all provided within the document
