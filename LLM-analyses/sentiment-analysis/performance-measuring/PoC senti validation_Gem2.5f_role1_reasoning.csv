@@ -1,0 +1,2 @@
+﻿Model,Total_Posts,Accuracy,F1_Macro,F1_Weighted,Cohen_Kappa,MAE_Numeric,N/A_Count_True,N/A_Count_Pred
+Gem2.5f,20,0.85,0.3701298701298701,0.8246753246753247,0.5,0.0,5,2

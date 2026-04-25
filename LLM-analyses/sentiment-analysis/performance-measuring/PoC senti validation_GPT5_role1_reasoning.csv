@@ -1,0 +1,2 @@
+﻿Model,Total_Posts,Accuracy,F1_Macro,F1_Weighted,Cohen_Kappa,MAE_Numeric,N/A_Count_True,N/A_Count_Pred
+GPT5,20,0.8,0.30392156862745096,0.7450980392156862,0.2727272727272727,0.0,5,1
