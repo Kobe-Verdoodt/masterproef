@@ -1,0 +1,16 @@
+﻿Type,Category,TP,FP,TN,FN,Ground_Truth_Yes,LLM_Classifier_Yes,Accuracy,F1_Score,Cohen_Kappa,Note
+Main,Cat_E,0,3,17,0,0.0,3.0,0.85,0.0,0.0,
+Main,Cat_S,7,9,3,1,8.0,16.0,0.5,0.5833333333333334,0.1071428571428571,
+Main,Cat_G,0,4,16,0,0.0,4.0,0.8,0.0,0.0,
+Main,Cat_N,3,1,7,9,12.0,4.0,0.5,0.375,0.1071428571428571,
+Sub,Resource_Use,0,3,17,0,0.0,3.0,0.85,0.0,0.0,
+Sub,Emissions,0,1,19,0,0.0,1.0,0.95,0.0,0.0,
+Sub,Innovation,0,0,20,0,0.0,0.0,1.0,0.0,0.0,
+Sub,Workforce,6,4,10,0,6.0,10.0,0.8,0.75,0.6,
+Sub,Human_Rights,0,0,16,4,4.0,0.0,0.8,0.0,0.0,
+Sub,Community,2,4,13,1,3.0,6.0,0.75,0.4444444444444444,0.30555555555555547,
+Sub,Product_Responsibility,0,2,18,0,0.0,2.0,0.9,0.0,0.0,
+Sub,Management,0,0,20,0,0.0,0.0,1.0,0.0,0.0,
+Sub,Shareholders,0,0,20,0,0.0,0.0,1.0,0.0,0.0,
+Sub,CSR_Strategy,0,6,14,0,0.0,6.0,0.7,0.0,0.0,
+,SUBCATEGORY_GLOBAL_METRICS,8,20,167,5,,,0.875,0.875,0.660303009715334,Hamming Loss: 0.1250 | Macro F1: 0.6603
