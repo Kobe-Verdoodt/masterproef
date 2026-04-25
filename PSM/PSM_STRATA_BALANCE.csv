@@ -1,0 +1,22 @@
+Stratum,Type,Variabele,Mean_Treated,Mean_Control,,(p_val),,SMD,
+0.0-0.2,Continu,Company Market Cap,6332208055,6082342076,,0.8992,,0.0316,***
+0.0-0.2,Continu,Return on Equity - Actual,0.178014063,0.28068303,,0.1473,,0.3661,*
+0.0-0.2,Continu,Independent Board Members,0.628125,0.609393939,,0.7229,,0.0884,***
+0.0-0.2,Continu,Total Debt Percentage of Total Equity,0.720578578,0.729383448,,0.9683,,0.0099,***
+0.0-0.2,Sector,Footwear,0.1875,0.242424242,,0.597,,0.1319,**
+0.0-0.2,Sector,Textiles & Leather Goods,0,0,,,,0,/
+0.2-0.4,Continu,Company Market Cap,16757594710,17322311005,,0.9589,,0.0296,***
+0.2-0.4,Continu,Return on Equity - Actual,0.50288,0.466184286,,0.8842,,0.0801,***
+0.2-0.4,Continu,Independent Board Members,0.85,0.888571429,,0.3832,,0.5233,
+0.2-0.4,Continu,Total Debt Percentage of Total Equity,1.30355935,1.125308986,,0.7763,,0.1641,**
+0.2-0.4,Sector,Footwear,1,0.428571429,,0.0246,,1.5119,
+0.2-0.4,Sector,Textiles & Leather Goods,0,0,,,,0,/
+0.4-0.6,Continu,Company Market Cap,43282361355,54312858399,,0.6164,,0.3979,*
+0.4-0.6,Continu,Return on Equity - Actual,0.3081975,0.305145,,0.9783,,0.0249,***
+0.4-0.6,Continu,Independent Board Members,0.86,0.775,,0.4468,,0.6093,
+0.4-0.6,Continu,Total Debt Percentage of Total Equity,0.377053,0.39596175,,0.9652,,0.0377,***
+0.4-0.6,Sector,Footwear,0.25,0.5,,0.6328,,0.4082,*
+0.4-0.6,Sector,Textiles & Leather Goods,0,0,,,,0,/
+,,,,,,niet echt relevant gezien de kleine N,,,*: < 0.5 'Gemiddeld'
+,,,,,,,,,**: < 0.2 'Klein'
+,,,,,,,,,***: < 0.1 'Zeer klein'
