@@ -4,10 +4,10 @@
 
 Deze repository bevat de data-input, Python-scripts en .csv outputs voor de masterproef van Kobe Verdoodt.
 
-## ⚠️ Belangrijke Opmerking over de Status
+## Opmerkingen
 Dit is een **werkversie** (Proof-of-Concept fase). De scripts en bestanden zijn nog niet in hun definitieve vorm.
 * **Bestandsbeheer:** De scripts bevatten momenteel relatieve paden. Voor een correcte uitvoering dienen inputbestanden mogelijk in dezelfde directory als de scripts geplaatst te worden.
-* **Prompttechnieken:** De LLM-scripts bevatten experimentele prompt-technieken die niet allemaal zijn opgenomen in de huidige versie van de geschreven methodologie.
+* **Prompttechnieken:** De LLM-scripts bevatten enkele prompttechnieken die niet zijn opgenomen in de geschreven methodologie.
 * **Beveiliging:** API-sleutels zijn om veiligheidsredenen verwijderd uit alle scripts.
 
 ## 📂 Projectstructuur
