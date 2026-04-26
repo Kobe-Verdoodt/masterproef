@@ -26,11 +26,11 @@ De kern van de inhoudsanalyse, onderverdeeld in drie subsecties:
 
 **Elke submap bevat:**
 * **Scripts:** Code voor zowel Google Gemini als OpenAI GPT modellen.
-* **Ground Truth:** Bestanden voor de handmatige validatie.
-* **Categorieën & Voorbeelden:** Documentatie van de gehanteerde labels en voorbeelden.
-* **Model Performance Comparison:** Een `.png` bestand met een visuele vergelijking van de prestaties tussen de verschillende modellen/prompttechnieken.
+* **Ground Truth:** Bestand voor de handmatige annotaties.
+* **Categorieën & Voorbeelden:** Documentatie van de gehanteerde labels en voorbeelden, dient als input voor de prompt.
+* **Model Performance Comparison:** Een `.png` bestand met een visuele vergelijking van de prestaties tussen de verschillende modellen/prompttechnieken. Deze metrieken komen ook nog niet allemaal overeen met de geschreven methodologie.
 * **/scores**: De ruwe output van de LLM-analyses.
-* **/performance-measuring**: De berekende performantiemetrieken.
+* **/performance-measuring**: De berekende performantiemetrieken per analyse-output.
 
 ### 4. `/inferential-analysis`
 Bevat de scripts en bestanden voor de finale statistische verwerking:
