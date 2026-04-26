@@ -1,6 +1,6 @@
 # masterproef
 
-# ESG-Washing & LinkedIn Communicatie Analyse
+# ESG-Washing & LinkedIn-communicatie
 
 Deze repository bevat de data-input, Python-scripts en .csv outputs voor de masterproef van Kobe Verdoodt.
 
