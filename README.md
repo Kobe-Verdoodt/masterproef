@@ -1,40 +1,40 @@
-# masterproef
-
-# ESG-Washing & LinkedIn-communicatie
+# Titel
+## masterproef Kobe Verdoodt 2025-2026
+Handelswetenschappen - traject Management & IT
+Promotor: Prof. Els Clarysse
 
 Deze repository bevat de data-input, Python-scripts en .csv outputs voor de masterproef van Kobe Verdoodt.
 
 ## Opmerkingen
-Dit is een **werkversie** (Proof-of-Concept fase). De scripts en bestanden zijn nog niet in hun definitieve vorm.
-* **Bestandsbeheer:** De scripts bevatten momenteel relatieve paden. Voor een correcte uitvoering dienen inputbestanden mogelijk in dezelfde directory als de scripts geplaatst te worden.
-* **Prompttechnieken:** De LLM-scripts bevatten enkele prompttechnieken die niet zijn opgenomen in de geschreven methodologie.
-* **Beveiliging:** API-sleutels zijn om veiligheidsredenen verwijderd uit alle scripts.
+* **Bestandsbeheer:** Gebruik als één geheel en behoud de huidige bestandindeling. Vul uw eigen rootfolder in in de Python-scripts waar nodig.
+* **Beveiliging:** API-sleutels zijn om veiligheidsredenen verwijderd en vervangen door een lege .txt file.
 
 ## 📂 Projectstructuur
 
-### 1. `/data`
-Bevat de ruwe data-extracties afkomstig uit **LSEG Workspace**, en de omgevormde versie naar bedrijf-jaar-instanties. Deze data vormen de basis voor zowel de ESG-washing scores als de financiële controlevariabelen.
+### 1. `/Data Collection`
+Bevat de ruwe data-extracties afkomstig uit **LSEG Workspace**, en de dataset met **LinkedIn-scrapes** voor de betrokken bedrijven. Deze data vormen de input voor de alle gebruikte variabelen.
+* **/LSEG:** tekst
+* **/LinkedIn:** tekst
 
-### 2. `/PSM`
-Bevat de volledige uitwerking van de **Propensity Score Matching** procedure. Hierin bevinden zich de scripts voor de steekproefselectie en de bijbehorende balansdiagnostiek (SMD-tabellen en plots).
+### 2. `/Ground Truth`
+Tekst
 
-### 3. `/LLM-analysis`
-De kern van de inhoudsanalyse, onderverdeeld in drie subsecties:
-* **/classification** (Thematische Classificatie)
-* **/sentiment-analysis** (Sentimentanalyse)
-* **/readability-analysis** (Leesbaarheidsanalyse)
+### 3. `/LLM Analyses`
+De kern van de tekstanalyse, onderverdeeld in twee subsecties:
+* **/Classification** (Thematische Classificatie)
+* **/Readability Analysis** (Leesbaarheidsanalyse)
+
 
 **Elke submap bevat:**
-* **Scripts:** Code voor zowel Google Gemini als OpenAI GPT modellen.
+* **Scripts:** Code voor OpenAI GPT modellen.
 * **Ground Truth:** Bestand voor de handmatige annotaties.
 * **Categorieën & Voorbeelden:** Documentatie van de gehanteerde labels en voorbeelden, dient als input voor de prompt.
 * **Model Performance Comparison:** Een `.png` bestand met een visuele vergelijking van de prestaties tussen de verschillende modellen/prompttechnieken. Deze metrieken komen ook nog niet allemaal overeen met de geschreven methodologie.
 * **/scores**: De ruwe output van de LLM-analyses.
 * **/performance-measuring**: De berekende performantiemetrieken per analyse-output.
 
-### 4. `/inferential-analysis`
+### 4. `/Inferential Analysis`
 Bevat de scripts en bestanden voor de finale statistische verwerking:
 * **aggregation:** Script om postniveau data om te zetten naar bedrijf-jaar-niveau scores.
 * **final analysis:** Script om finale inferentiële analyse uit te werken (nog niet toepasbaar vanwege lage N bij de PoC).
-* **translation table:** Een koppeltabel om LSEG-identifiers (RIC's) om te zetten naar leesbare bedrijfsnamen.
 * **final analysis input:** De uiteindelijke inputbestanden (.csv) en scripts voor de inferentiële statistiek (regressies en toetsen).
