@@ -1,0 +1,41 @@
+﻿Model,MAEm,Average Recall N/A,Krippendorff's Alpha
+GPT-5.1 baseline,0.6848,0.7678,0.5272
+GPT-5.1 few-shot,0.7215,0.662,0.4931
+GPT-5.1 few-shot CoT,0.7219,0.7174,0.4971
+GPT-5.1 few-shot CoT zelfreflectie,0.7163,0.7174,0.5046
+GPT-5.1 few-shot zelfreflectie,0.7187,0.7055,0.4976
+GPT-5.1 CoT,0.6806,0.8187,0.5192
+GPT-5.1 CoT zelfreflectie,0.6778,0.8621,0.5221
+GPT-5.1 zelfreflectie,0.6757,0.7633,0.5283
+GPT-5.1 rol 1,0.7146,0.873,0.5372
+GPT-5.1 rol 1 few-shot,0.6902,0.8241,0.5306
+GPT-5.1 rol 1 few-shot CoT,0.7718,0.7391,0.4911
+GPT-5.1 rol 1 CoT,0.7489,0.8389,0.4629
+GPT-5.1 rol 2,0.6635,0.7707,0.567
+GPT-5.1 rol 2 few-shot,0.7499,0.7317,0.4956
+GPT-5.1 rol 2 few-shot CoT,0.7908,0.7594,0.4686
+GPT-5.1 rol 2 few-shot CoT zelfreflectie,0.788,0.7594,0.4712
+GPT-5.1 rol 2 few-shot zelfreflectie,0.7607,0.7549,0.4875
+GPT-5.1 rol 2 CoT,0.6734,0.8157,0.5354
+GPT-5.1 rol 2 CoT zelfreflectie,0.6738,0.8142,0.5351
+GPT-5.1 rol 2 zelfreflectie,0.6656,0.833,0.5679
+GPT-5.1 rol 3,0.6679,0.872,0.5572
+GPT-5.1 rol 3 few-shot,0.75,0.7055,0.5024
+GPT-5.1 rol 3 few-shot CoT,0.7639,0.7376,0.4842
+GPT-5.1 rol 3 CoT,0.6985,0.8202,0.513
+GPT-5-nano baseline,0.943,0.7752,0.2667
+GPT-5-nano few-shot,0.873,0.7693,0.3369
+GPT-5-nano few-shot CoT,0.8249,0.8142,0.3574
+GPT-5-nano CoT,0.9012,0.749,0.3377
+GPT-5-nano rol 1,0.9559,0.8404,0.2825
+GPT-5-nano rol 1 few-shot,0.8993,0.7663,0.2931
+GPT-5-nano rol 1 few-shot CoT,0.8172,0.7535,0.3989
+GPT-5-nano rol 1 CoT,0.8796,0.7722,0.3164
+GPT-5-nano rol 2,0.9492,0.7693,0.2627
+GPT-5-nano rol 2 few-shot,0.8627,0.7678,0.3327
+GPT-5-nano rol 2 few-shot CoT,0.8088,0.794,0.3759
+GPT-5-nano rol 2 CoT,0.8422,0.7579,0.3687
+GPT-5-nano rol 3,0.9231,0.7707,0.2991
+GPT-5-nano rol 3 few-shot,0.8853,0.8577,0.29
+GPT-5-nano rol 3 few-shot CoT,0.8672,0.7722,0.3355
+GPT-5-nano rol 3 CoT,0.9172,0.7767,0.2992

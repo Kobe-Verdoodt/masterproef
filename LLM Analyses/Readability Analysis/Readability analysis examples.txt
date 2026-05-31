@@ -1,0 +1,186 @@
+EXAMPLE 1:
+Input:
+{Nike Berlin is back — reimagined as a dynamic, low-emissions retail experience powered entirely by renewable energy and smart climate systems.
+
+The space focuses on circularity and quality products. Through dedicated recycling services and product-care hubs, athletes can easily and safely extend the life of their gear. The collections also debut Nike’s latest material innovations, featuring premium performance apparel crafted from engineered, recycled polymers that reduce raw material waste.
+
+Bringing this sustainable vision to life is a world-class store team, supported by a retail environment focused on professional growth, safety, and operational excellence.
+
+Nike Berlin proves that elite performance, workplace empowerment, and responsible design can live under one roof.}
+Output:
+{
+  "A_01": {
+    "score": 5,
+    "reasoning": "The text is highly concise. Every sentence introduces distinct, unique elements (e.g., store dimensions, specific services like recycling/product-care, material innovations, and team empowerment) without repeating identical data across paragraphs."
+  },
+  "A_02": {
+    "score": 5,
+    "reasoning": "The text exhibits excellent lexical diversity and varied sentence structures. Key themes like sustainability are framed using different terms throughout ('low-emissions', 'renewable energy', 'circularity', 'responsible design'), keeping the prose fluid and professional."
+  },
+  "B_01": {
+    "score": 4,
+    "reasoning": "While the text provides general operational details (1,475-square-meter space, recycling hubs, engineered polymers), it leaves the reader with 'how' or 'what' questions regarding the implementation of broad claims like 'smart climate systems' and 'workplace empowerment'."
+  },
+  "B_02": {
+    "score": 2,
+    "reasoning": "Causal links are present but weak or implied. For example, it states the store is 'powered entirely by renewable energy' and features 'material innovations... that reduce raw material waste', but the explicit, verifiable causal chains or mechanisms of these systems are not fully laid out."
+  },
+  "B_03": {
+    "score": 1,
+    "reasoning": "The text overuses subjective puffery and unmeasured modifiers typical of corporate marketing without providing clear definitions, such as 'dynamic', 'world-class', 'premium performance', and 'elite performance'."
+  },
+  "C_01": {
+    "score": "N/A",
+    "reasoning": "No material numbers are provided in the text."
+  },
+  "C_02": {
+    "score": 2,
+    "reasoning": "The text mentions 'is back' and 'latest', which are general timeframes rather than specific historical or future markers."
+  },
+  "C_04": {
+    "score": 5,
+    "reasoning": "The scope has clearly demarcated boundaries; the statements and claims explicitly apply to a single, specific geographic corporate entity ('Nike Berlin')."
+  },
+  "C_05": {
+    "score": 4,
+    "reasoning": "The information is relevant to Nike's sustainability efforts, but its specific weight within the broader corporate 'MoveToZero' hierarchy or 'big picture' global strategy is not immediately detailed."
+  },
+  "C_06": {
+    "score": 1,
+    "reasoning": "The language contains highly vague, non-specific phrasing ('sustainable vision', 'responsible design', 'workplace empowerment') that can easily be interpreted as corporate greenwashing, lacking the single-meaning prose or technical definitions required for a 5."
+  },
+  "D_01": {
+    "score": 5,
+    "reasoning": "The post is fully self-contained for what it is. It does not contain any shell language, external links, or prompts instructing the reader to 'see website' or 'refer to external document' to understand its core claims."
+  },
+  "L_01": {
+    "score": 5,
+    "reasoning": "The text makes absolutely no use of emotional/symbolic elements like exclamation marks or emoticons, remaining strictly factual and professional in its structural punctuation."
+  }
+}
+EXAMPLE 2:
+Input:
+{Air Max Day is an annual event focusing on the Air Max franchise. The original Air Max 1 launch occurred on March 26, 1987.
+
+Today at Nike’s Philip H. Knight Campus (PHK), teammates wore various Air Max styles. Participants also published photos of their footwear on social media platforms. The franchise includes classic silhouettes as well as newer designs.
+
+Ken Holter, Lead, Nike Sportswear Brand Management, stated: “Air Max is an element in youth culture and street style.”
+
+The new Air Works program involves global designers. Information regarding this program is available at the following link: https://lnkd.in/dpjEjN6h}
+Output:
+{
+  "A_01": {
+    "score": 5,
+    "reasoning": "The text is maximally efficient and devoid of any informational redundancy. Every sentence delivers distinct, unique facts regarding dates, participant actions, location parameters."
+  },
+  "A_02": {
+    "score": 4,
+    "reasoning": "Vocabulary diversity is satisfactory for a brief informational log. Key technical terms like 'franchise', 'silhouettes', and 'designs' are utilized to avoid monotonous linguistic repetition, while brand-name occurrences are kept to a minimum."
+  },
+  "B_01": {
+    "score": 2,
+    "reasoning": "The prose provides basic, isolated structural facts (such as names, dates, and coordinates) but completely lacks elaboration or technical specifications detailing what the 'Air Works program' actually does or entails."
+  },
+  "B_02": {
+    "score": "N/A",
+    "reasoning": "The text functions strictly as a factual and descriptive log of events, historical markers, and corporate statements. It contains no explicit or implicit causal assertions, conditional 'if-then' frameworks, goal-means relationships, or functional claims."
+  },
+  "B_03": {
+    "score": 5,
+    "reasoning": "The text contains zero subjective adjectives, speculative modifiers, or value-laden corporate spin. Every descriptor is strictly non-evaluative and precise ('annual event', 'classic silhouettes', 'global designers')."
+  },
+  "C_01": {
+    "score": "5",
+    "reasoning": "The numbers present in the text ('March 26, 1987', '1') serve exclusively as explicit historical dates, chronological markers, or catalog identifiers. They carry an obvious, unambiguous meaning within their immediate context, leaving no room for quantitative misinterpretation."
+  },
+  "C_02": {
+    "score": 5,
+    "reasoning": "Temporal frameworks are perfectly bounded. The text employs specific, absolute calendar coordinates ('March 26, 1987', 'Today') to anchor the event, avoiding any relative or vague promotional timeline references."
+  },
+  "C_04": {
+    "score": 4,
+    "reasoning": "The spatial and operational scope is clearly demarcated, distinguishing explicitly between actions taking place locally at the 'Philip H. Knight Campus (PHK)' and the organizational boundary of the 'global designers'."
+  },
+  "C_05": {
+    "score": 2,
+    "reasoning": "The text is an uncontextualized, dry summary. It explicitly states the occurrence of events and the existence of a program, but it provides no background explanation regarding why this program matters, its corporate significance, or its broader relevance to the company's performance."
+  },
+  "C_06": {
+    "score": 5,
+    "reasoning": "The text utilizes literal, dry, and objective language throughout. It completely lacks any metaphorical corporate expressions or ambiguous phrasing that could be interpreted in multiple ways by different audiences."
+  },
+  "D_01": {
+    "score": 3,
+    "reasoning": "While the descriptive timeline of the campus event stands on its own, the logic surrounding the 'Air Works program' is completely missing; the sentence serves as a bare promotional shell requiring the reader to click an external link to gather basic information."
+  },
+  "L_01": {
+    "score": 5,
+    "reasoning": "No exclamation marks, question marks, or emoticons are used anywhere in the text; the focus remains entirely on standard, factual textual representation without emotional manipulation through symbols."
+  }
+}
+EXAMPLE 3:
+Input:
+{Faith Kipyegon has spent her career redefining what’s possible on the track. Now, the three-time Olympic champion and Nike athlete is extending that impact to maternal health.
+
+Over the weekend, Nike joined Faith to dedicate The Dare To Dream Maternity Ward in Keringet, Kenya. In a region where the nearest hospital is up to 35 kilometers away, only a third of expectant mothers in the district currently have access to skilled legal care during childbirth
+
+“Together with Nike and this community, we are building a space where mothers are supported, respected and protected,” Kipyegon says. “When women are supported, communities rise.”
+
+For Nike, this initiative represents the intersection of purpose and performance.
+
+“Our leadership is dedicated to strong governance, ensuring our global investments meet the highest operational and ethical standards,” says Tanya Hvizdak, VP of Global Running. “By managing these projects with rigorous oversight, we maximize our impact while responsibly driving long-term brand equity and sustainable value for our shareholders.”
+
+This is Faith’s legacy: using her extraordinary gifts to protect lives and inspire hope for generations to come.
+
+Learn more about Faith’s boundary-pushing mindset at the link in the comments.}
+Output:
+{
+  "A_01": {
+    "score": 5,
+    "reasoning": "The text displays zero waste. Every sentence introduces unique, distinct details (athletic achievements, location-specific medical distance challenges, local community quotes, corporate governance alignments, and call-to-actions) without redundant repetitions."
+  },
+  "A_02": {
+    "score": 5,
+    "reasoning": "Excellent lexical diversity and varied sentence structures keep the text engaging. Synonyms like 'extending that impact', 'initiative', and 'global investments' help transition smoothly between topics without creating a monotonous tone."
+  },
+  "B_01": {
+    "score": 4,
+    "reasoning": "The text includes highly granular details like specific geographic proximity metrics ('nearest hospital is up to 35 kilometers away') and facility names. It falls just short of a 5 because it leaves minor implementation details unanswered regarding the specific funding parameters of the facility."
+  },
+  "B_02": {
+    "score": 5,
+    "reasoning": "The text clearly and explicitly explains how Input A leads to Output B. It shows that building this maternity ward directly resolves a critical regional issue by bringing vital care closer to home for individuals previously isolated by a 35 km gap."
+  },
+  "B_03": {
+    "score": 2,
+    "reasoning": "The text relies heavily on subjective modifiers and definitions of corporate puffery in its opening and closing sentences ('redefining what’s possible', 'extraordinary gifts', 'boundary-pushing mindset'). However, it also uses objective, precise descriptive parameters elsewhere ('three-time Olympic champion', '35 kilometers away')."
+  },
+  "C_01": {
+    "score": 4,
+    "reasoning": "Material statistics and quantities are tied closely to clear, real-world context ('three-time Olympic champion', 'up to 35 kilometers away'). It stops just short of a 5 because the exact calculations, benchmarks, or financial sizes of the corporate investment figures mentioned by the VP are not provided."
+  },
+  "C_02": {
+    "score": 3,
+    "reasoning": "Broad timeframes and vague terms like 'Over the weekend' and 'for generations to come' are used without fixed temporal anchors or specific calendar tracking markers. The text does not receive an N/A because this timeline pertains directly to a core operational initiative launch."
+  },
+  "C_04": {
+    "score": 5,
+    "reasoning": "The boundaries of the scope are clearly demarcated across distinct organizational levels, explicitly mapping out the precise region affected ('Keringet, Kenya') and defining the corporate oversight responsible for the framework ('global investments')."
+  },
+  "C_05": {
+    "score": 5,
+    "reasoning": "Deep context is provided. Every element is placed within a clear narrative hierarchy, explicitly explaining the relevance of the clinic by highlighting the 35 km geographic gap and bridging it with the corporate VP's discussion of shareholder value and investment impact."
+  },
+  "C_06": {
+    "score": 3,
+    "reasoning": "The majority of the text is clear, but the paragraph containing the quote from the VP uses slightly ambiguous corporate governance phrasing ('driving long-term brand equity and sustainable value') that could be misunderstood or interpreted abstractly by non-experts."
+  },
+  "D_01": {
+    "score": 4,
+    "reasoning": "The major logic, social context, and quotes are fully self-contained within the post. It drops to a 4 only because a call-to-action hook at the end prompts readers to access a link in the comments for a deeper dive into her mindset."
+  },
+  "L_01": {
+    "score": 5,
+    "reasoning": "No exclamation marks or emoticons are used anywhere in the text; the layout relies completely on factual representation without emotional or symbolic manipulation."
+  }
+}
