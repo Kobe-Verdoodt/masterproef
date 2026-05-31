@@ -1,0 +1,41 @@
+,Model,Macro F1,Hamming Loss,Accuracy
+0,GPT-5.1 baseline,0.752,0.054,0.946
+1,GPT-5.1 few-shot,0.7566,0.062,0.938
+2,GPT-5.1 few-shot CoT,0.7581,0.0587,0.9413
+3,GPT-5.1 few-shot CoT zelfreflectie,0.7592,0.058,0.942
+4,GPT-5.1 few-shot zelfreflectie,0.7655,0.0587,0.9413
+5,GPT-5.1 CoT,0.6905,0.0647,0.9353
+6,GPT-5.1 CoT zelfreflectie,0.6924,0.0627,0.9373
+7,GPT-5.1 zelfreflectie,0.7447,0.0527,0.9473
+8,GPT-5.1 rol 4,0.7483,0.0567,0.9433
+9,GPT-5.1 rol 4 few-shot,0.7706,0.06,0.94
+10,GPT-5.1 rol 4 few-shot CoT,0.7384,0.0687,0.9313
+11,GPT-5.1 rol 4 few-shot CoT zelfreflectie,0.7422,0.0667,0.9333
+12,GPT-5.1 rol 4 few-shot zelfreflectie,0.7848,0.0533,0.9467
+13,GPT-5.1 rol 4 CoT,0.7238,0.0627,0.9373
+14,GPT-5.1 rol 4 CoT zelfreflectie,0.7305,0.0593,0.9407
+15,GPT-5.1 rol 4 zelfreflectie,0.7474,0.0527,0.9473
+16,GPT-5.1 rol 5,0.7428,0.0573,0.9427
+17,GPT-5.1 rol 5 few-shot,0.7443,0.068,0.932
+18,GPT-5.1 rol 5 few-shot CoT,0.735,0.068,0.932
+19,GPT-5.1 rol 5 CoT,0.7237,0.0613,0.9387
+20,GPT-5.1 rol 6,0.7418,0.0567,0.9433
+21,GPT-5.1 rol 6 few-shot,0.7596,0.064,0.936
+22,GPT-5.1 rol 6 few-shot CoT,0.7542,0.064,0.936
+23,GPT-5.1 rol 6 CoT,0.7228,0.0627,0.9373
+24,GPT-5-nano baseline,0.6719,0.0713,0.9287
+25,GPT-5-nano few-shot,0.7205,0.068,0.932
+26,GPT-5-nano few-shot CoT,0.7147,0.0693,0.9307
+27,GPT-5-nano CoT,0.7148,0.068,0.932
+28,GPT-5-nano rol 4,0.7307,0.0613,0.9387
+29,GPT-5-nano rol 4 few-shot,0.724,0.0753,0.9247
+30,GPT-5-nano rol 4 few-shot CoT,0.7164,0.0647,0.9353
+31,GPT-5-nano rol 4 CoT,0.7105,0.0653,0.9347
+32,GPT-5-nano rol 5,0.7302,0.0607,0.9393
+33,GPT-5-nano rol 5 few-shot,0.7416,0.0653,0.9347
+34,GPT-5-nano rol 5 few-shot CoT,0.7299,0.0733,0.9267
+35,GPT-5-nano rol 5 CoT,0.7122,0.066,0.934
+36,GPT-5-nano rol 6,0.6745,0.064,0.936
+37,GPT-5-nano rol 6 few-shot,0.7399,0.066,0.934
+38,GPT-5-nano rol 6 few-shot CoT,0.7389,0.0687,0.9313
+39,GPT-5-nano rol 6 CoT,0.6984,0.0687,0.9313

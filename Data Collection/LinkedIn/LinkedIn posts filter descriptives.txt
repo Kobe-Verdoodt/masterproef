@@ -1,0 +1,37 @@
+============================================================
+📊 DESCRIPTIVES (RAW DATA)
+============================================================
+Total Posts: 5137 | Total Companies: 76
+
+--- Company Post Distribution ---
+Mean:   67.59
+Median: 48.50
+Min:    1
+Max:    312
+StDev:  66.59
+
+--- Word Count Distribution ---
+Mean:   102.99
+Median: 90.00
+Min:    0
+Max:    508
+StDev:  68.78
+
+--- Sentence Count Distribution ---
+Mean:   5.75
+Median: 5.00
+Min:    0
+Max:    36
+StDev:  3.74
+
+------------------------------------------------------------
+🔍 FILTER & SYNCHRONIZATION RESULTS
+------------------------------------------------------------
+Companies with 10+ posts (Clsf Set):  66
+Companies with 10+ posts (Read Set):  62
+Final Synchronized Unique Companies:         62
+Total Companies Removed:                     14
+
+Final Rows in LinkedIn 2025-26 Dataset - clsf.csv: 4932
+Final Rows in LinkedIn 2025-26 Dataset - rdbl.csv:    4350
+============================================================

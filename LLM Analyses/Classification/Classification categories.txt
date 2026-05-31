@@ -1,0 +1,32 @@
+Pillar 1: Environmental
+1. Resource Use
+comprises content related to materials, energy, or water consumption, as well as topics concerning eco-efficient supply chain management solutions and the reduction of resource inputs
+
+2. Emissions
+comprises content related to a company’s environmental pollution, as well as commitments or operational measures toward reduction of emissions in production and operational processes
+
+3. Innovation
+comprises content related to environmental technologies, green processes, or eco-designed products concerning the reduction of environmental costs and burdens
+
+Pillar 2: Social
+4. Workforce
+comprises content related to a company's internal employees and staff, covering topics such as job satisfaction, workplace health and safety, fair compensation, internal diversity, and equal development or training opportunities
+
+5. Human Rights
+comprises content related to fundamental human rights conventions, corporate human rights policies, or supplier auditing (e.g., avoiding child or forced labor). It excludes human rights themes handled by other subcategories, such as equal pay, workplace safety, or local community charity
+
+6. Community
+comprises content related to a company's corporate citizenship, public health protections, business ethics, localized social impact and charity
+
+7. Product Responsibility
+comprises content related to the quality of goods and services, covering topics that directly impact the customer, such as consumer health and safety, product integrity, and customer data privacy
+
+Pillar 3: Governance
+8. Management
+comprises content related to corporate governance principles, executive leadership, and board-level structures, covering topics such as executive compensation and operational direction
+
+9. Shareholders
+comprises content related to investor relations, the treatment of and reporting towards shareholders, and the use or avoidance of anti-takeover devices.
+
+10. CSR Strategy
+comprises content related to the overarching communication and reporting of governance, social, and environmental dimensions, and the integration of these topics into day-to-day corporate decision-making

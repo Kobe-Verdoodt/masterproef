@@ -1,0 +1,173 @@
+EXAMPLE 1:
+Input:
+{Nike Berlin is back — reimagined as a dynamic, low-emissions retail experience powered entirely by renewable energy and smart climate systems.
+
+The 1,475-square-meter space focuses on circularity and quality products. Through dedicated recycling services and product-care hubs, athletes can easily and safely extend the life of their gear. The collections also debut Nike’s latest material innovations, featuring premium performance apparel crafted from engineered, recycled polymers that reduce raw material waste.
+
+Bringing this sustainable vision to life is a world-class store team, supported by a retail environment focused on professional growth, safety, and operational excellence.
+
+Nike Berlin proves that elite performance, workplace empowerment, and responsible design can live under one roof.
+
+#NikeRetail #MoveToZero #SwooshLife #JustDoIt}
+Output:
+{
+  {
+  "Resource_Use": {
+    "active": "Yes",
+    "reasoning": "The post explicitly highlights the 1,475-square-meter space's design to reduce raw material waste and optimize resources through smart climate engineering."
+  },
+  "Emissions": {
+    "active": "Yes",
+    "reasoning": "The text directly labels the new retail location as a 'low-emissions retail experience' that runs entirely on renewable energy."
+  },
+  "Innovation": {
+    "active": "Yes",
+    "reasoning": "The article references Nike's latest 'material innovations,' explicitly pointing out engineered, recycled polymers designed to lower environmental product manufacturing burdens."
+  },
+  "Workforce": {
+    "active": "Yes",
+    "reasoning": "The post highlights the retail store team and emphasizes a workplace environment built specifically for 'professional growth, safety, and operational excellence.'"
+  },
+  "Human_Rights": {
+    "active": "No",
+    "reasoning": "The text does not mention fundamental human rights conventions, supply chain ethics, or systemic labor rights issues."
+  },
+  "Community": {
+    "active": "No",
+    "reasoning": "All previous references to local Berlin coaches, local community inspiration, and neighborhood outreach have been entirely removed."
+  },
+  "Product_Responsibility": {
+    "active": "Yes",
+    "reasoning": "The post explicitly notes the store's focus on 'quality products' through dedicated product-care hubs and recycling services designed to safely extend product lifecycles."
+  },
+  "Management": {
+    "active": "No",
+    "reasoning": "The text does not discuss Nike's executive board, corporate governance codes, or leadership composition."
+  },
+  "Shareholders": {
+    "active": "No",
+    "reasoning": "There is no mention of investor value, investor returns, shareholder rights, or anti-takeover policies."
+  },
+  "CSR_Strategy": {
+    "active": "Yes",
+    "reasoning": "The post acts as a strategic brand communication piece that explicitly weaves economic retail expansion together with environmental and workforce sustainability dimensions."
+  }
+}
+EXAMPLE 2:
+Input:
+{Air Max Day started as a simple idea: wear your favorite pair and share why it matters to you.
+
+Today at Nike’s Philip H. Knight Campus (PHK), teammates carried that tradition forward, showing up in their favorite Air Max styles and posting photos on social media to celebrate the stories behind them.
+
+From classic icons to newer silhouettes, the day has become a reflection of personal style, creativity and connection to a franchise that continues to evolve.
+
+“From the first memories of my childhood, Air Max has always connected youth and communities on the streets,” says Ken Holter, Lead, Nike Sportswear Brand Management. “To me, Air Max is about street, love and creativity.”
+
+Celebrated each year on March 26 — a nod to the original Air Max 1 launch date in 1987 — the day has grown into a longstanding tradition shaped by the people who wear it.
+
+Now, that same spirit is defining what comes next. Learn more about Nike’s new Air Works program, bringing together designers from around the world to create the future of Air Max: https://lnkd.in/dpjEjN6h
+
+#AirMax #SwooshLife #JustDoIt}
+Output:
+{
+  "Resource_Use": {
+    "active": "No",
+    "reasoning": "The post focuses on brand celebration, personal style, and product history without mentioning materials, energy, or water usage."
+  },
+  "Emissions": {
+    "active": "No",
+    "reasoning": "There is no mention of production processes, operational emissions, or carbon reduction goals."
+  },
+  "Innovation": {
+    "active": "No",
+    "reasoning": "While the post mentions 'creativity' and 'the future of Air Max,' it does not explicitly link these to environmental technologies, eco-designed products, or the reduction of environmental costs."
+  },
+  "Workforce": {
+    "active": "No",
+    "reasoning": "Although 'teammates' are mentioned celebrating at the campus, the post does not provide evidence regarding job satisfaction, safety, diversity, or development opportunities."
+  },
+  "Human_Rights": {
+    "active": "No",
+    "reasoning": "There is no mention of human rights conventions or labor rights compliance."
+  },
+  "Community": {
+    "active": "No",
+    "reasoning": "While the quote mentions 'communities on the streets,' it refers to consumer subcultures and brand connection rather than corporate philanthropy, public health, or business ethics."
+  },
+  "Product_Responsibility": {
+    "active": "No",
+    "reasoning": "The post highlights product style and history but does not discuss product quality standards, safety data, or customer privacy."
+  },
+  "Management": {
+    "active": "No",
+    "reasoning": "The content does not address corporate governance principles or executive management structures."
+  },
+  "Shareholders": {
+    "active": "No",
+    "reasoning": "There is no mention of shareholder rights or anti-takeover devices."
+  },
+  "CSR_Strategy": {
+    "active": "No",
+    "reasoning": "The post is a marketing and brand engagement piece; it does not communicate the integration of financial, social, and environmental dimensions into day-to-day decision-making."
+  }
+}
+EXAMPLE 3:
+Input:
+{Faith Kipyegon has spent her career redefining what’s possible on the track. Now, the three-time Olympic champion and Nike athlete is extending that impact to maternal health.
+
+Over the weekend, Nike joined Faith to dedicate The Dare To Dream Maternity Ward in Keringet, Kenya. In a region where the nearest hospital is up to 35 kilometers away, this facility brings critical care closer to home.
+
+“Together with Nike and this community, we are building a space where mothers are supported, respected and protected,” Kipyegon says. “When women are supported, communities rise.”
+
+For Nike, this initiative represents the intersection of purpose and performance.
+
+“Our leadership is dedicated to strong governance, ensuring our global investments meet the highest operational and ethical standards,” says Tanya Hvizdak, VP of Global Running. “By managing these projects with rigorous oversight, we maximize our impact while responsibly driving long-term brand equity and sustainable value for our shareholders.”
+
+This is Faith’s legacy: using her extraordinary gifts to protect lives and inspire hope for generations to come.
+
+Learn more about Faith’s boundary-pushing mindset at the link in the comments.
+
+#NikeCommunityImpact #FaithKipyegon #CorporateGovernance #ShareholderValue #JustDoIt}
+Output:
+{
+  "Resource_Use": {
+    "active": "No",
+    "reasoning": "The post does not discuss energy consumption, water use, or supply chain resource management."
+  },
+  "Emissions": {
+    "active": "No",
+    "reasoning": "There is no mention of carbon footprint, greenhouse gas emissions, or waste management."
+  },
+  "Innovation": {
+    "active": "No",
+    "reasoning": "The article focuses on physical infrastructure and social impact rather than R&D or environmental product innovation."
+  },
+  "Workforce": {
+    "active": "No",
+    "reasoning": "While a Nike athlete is mentioned, the content does not address Nike's internal employment diversity, safety, or training for its employees."
+  },
+  "Human_Rights": {
+    "active": "Yes",
+    "reasoning": "The post discusses community health and access to care, which is a fundamental human right"
+  },
+  "Community": {
+    "active": "Yes",
+    "reasoning": "The post explicitly describes a community impact project ('The Dare To Dream Maternity Ward') funded/supported by Nike and Faith Kipyegon in Keringet, Kenya. It addresses community health, infrastructural barriers, and social obligations to the local region."
+},
+  "Product_Responsibility": {
+    "active": "No",
+    "reasoning": "There is no discussion regarding the quality, safety, or data privacy of Nike's commercial products."
+  },
+  "Management": {
+    "active": "Yes",
+    "reasoning": "It mentions Nike's "leadership", "strong governance," and "rigorous oversight."
+  },
+  "Shareholders": {
+    "active": "Yes",
+    "reasoning": "The post explicitly links Nike's strategic community investments to the generation of long-term brand equity and sustainable value for its shareholders."
+  },
+  "CSR_Strategy": {
+    "active": "Yes",
+    "reasoning": "The involvement of Nike's VP of Global Running and the explicit mention of #NikeCommunityImpact demonstrates how the company integrates its athletes and philanthropic efforts into its broader social responsibility strategy and brand communication."
+  }
+}
