@@ -1,5 +1,6 @@
-# Titel
-## masterproef Kobe Verdoodt 2025-2026
+# De voorspellende waarde van ESG-washing-strategieën:
+## De impact van thematische en talige verhulling via LinkedIn op ESG-controverses en de validatie van LLM-gestuurde tekstanalyse.
+### masterproef Kobe Verdoodt 2025-2026
 Handelswetenschappen - traject Management & IT
 Promotor: Prof. Els Clarysse
 
