@@ -2,6 +2,7 @@
 ## De impact van thematische en talige verhulling via LinkedIn op ESG-controverses en de validatie van LLM-gestuurde tekstanalyse.
 ### masterproef Kobe Verdoodt 2025-2026
 Handelswetenschappen - traject Management & IT
+
 Promotor: Prof. Els Clarysse
 
 Deze repository bevat de data-input, Python-scripts en .csv outputs voor de masterproef van Kobe Verdoodt.
