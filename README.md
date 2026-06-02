@@ -1,7 +1,7 @@
-<code style="color : LightSkyBlue"># De verklarende waarde van ESG-washing-strategieën:</code>
-# De verklarende waarde van ESG-washing-strategieën:
+$${\color{blue}De verklarende waarde van ESG-washing-strategieën.}$$
+# De verklarende waarde van ESG-washing-strategieën.
 ## De relatie tussen thematische en talige verhulling via LinkedIn op ESG-controverses, en de validatie van LLM-gestuurde tekstanalyse.
-### masterproef Kobe Verdoodt 2025-2026
+<code style="color : none">masterproef Kobe Verdoodt 2025-2026</code>
 Handelswetenschappen - traject Management & IT
 
 Promotor: Prof. Els Clarysse
