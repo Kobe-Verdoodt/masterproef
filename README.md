@@ -1,4 +1,4 @@
-<code style="color : name_color">text</code>
+<code style="color : blue">De verklarende waarde van ESG-washing-strategieën:</code>
 # De verklarende waarde van ESG-washing-strategieën:
 ## De relatie tussen thematische en talige verhulling via LinkedIn op ESG-controverses, en de validatie van LLM-gestuurde tekstanalyse.
 ### masterproef Kobe Verdoodt 2025-2026
